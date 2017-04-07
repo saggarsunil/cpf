@@ -1,0 +1,5 @@
+#simulateIncreaseInTemperature=20
+#simulateChangeInWeight=19
+#simulateFridgeMovement=18
+#simulateFridgePowerOff=17
+
